@@ -1,5 +1,5 @@
 requests
-hashlib
+h4shlib
 random
 binascii
 urllib
